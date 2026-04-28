@@ -1,0 +1,641 @@
+event_id,customer_id,order_id,event_timestamp,event_type,session_id,device_type,zone_context,api_latency_ms,success_flag,event_success_status,latency_category
+AE00001,C0488,No_Order_Link,08/09/2024 03:25,eta_refresh,S19847,Android,North,301,1,Success,High
+AE00002,C0595,O00950,,search_route,S32766,Android,South,60,1,Success,Low
+AE00003,C0494,O00170,08/11/2025 09:29,chat_opened,S99516,iOS,Airport,1118,1,Success,High
+AE00004,C0407,O00756,,eta_refresh,S41236,iOS,Central,442,1,Success,High
+AE00005,C0506,No_Order_Link,,search_route,S12030,iOS,North,60,1,Success,Low
+AE00006,C0498,O01196,02/08/2025 09:50,track_order,S66655,Web,West,499,1,Success,High
+AE00007,C0033,O00028,,chat_opened,S79495,Android,South,169,1,Success,Medium
+AE00008,C0091,O00076,,search_route,S59028,Android,Central,431,1,Success,High
+AE00009,C0421,O01222,,eta_refresh,S76526,Web,North,609,1,Success,High
+AE00010,C0553,O00854,07/10/2024 13:11,chat_opened,S24618,Android,West,167,1,Success,Medium
+AE00011,C0643,O00192,05/10/2025 11:23,delivery_instruction_update,S22799,iOS,Central,182,1,Success,Medium
+AE00012,C0095,O01080,12/10/2025 19:11,chat_escalated,S57519,Android,Central,60,1,Success,Low
+AE00013,C0479,O00414,,chat_escalated,S37114,Web,West,399,0,Failed,High
+AE00014,C0626,O01054,04/04/2025 13:19,track_order,S75243,Android,Airport,998,1,Success,High
+AE00015,C0014,O00860,,chat_opened,S71663,Android,West,238,1,Success,Medium
+AE00016,C0506,No_Order_Link,,search_route,S47757,iOS,Riverside,536,1,Success,High
+AE00017,C0170,O00424,04/04/2024 06:22,chat_escalated,S30048,Android,North,624,0,Failed,High
+AE00018,C0530,O00295,11/12/2025 08:58,delivery_instruction_update,S76990,Android,North,626,1,Success,High
+AE00019,C0179,O00628,,track_order,S88326,Android,South,707,1,Success,High
+AE00020,C0116,O01065,,chat_opened,S81897,Android,North,196,1,Success,Medium
+AE00021,C0317,No_Order_Link,,search_route,S89590,Android,Central,494,1,Success,High
+AE00022,C0188,O00844,,delivery_instruction_update,S29750,iOS,South,760,1,Success,High
+AE00023,C0543,O00854,,chat_opened,S76975,iOS,North,644,1,Success,High
+AE00024,C0022,O01082,03/11/2024 19:51,track_order,S59171,Android,East,60,1,Success,Low
+AE00025,C0486,No_Order_Link,,track_order,S29906,iOS,North,350,1,Success,High
+AE00026,C0490,O00330,,eta_refresh,S93151,Android,North,388,1,Success,High
+AE00027,C0574,O00077,05/12/2024 06:04,delivery_instruction_update,S14580,iOS,Riverside,886,1,Success,High
+AE00028,C0166,No_Order_Link,,track_order,S26243,Android,South,570,1,Success,High
+AE00029,C0367,No_Order_Link,,payment_retry,S27022,Android,East,435,1,Success,High
+AE00030,C0455,O00229,06/07/2025 02:10,chat_opened,S74816,iOS,West,403,1,Success,High
+AE00031,C0241,O01158,06/09/2024 05:13,track_order,S52070,iOS,Airport,1660,1,Success,High
+AE00032,C0226,O00402,,search_route,S18892,Android,East,632,1,Success,High
+AE00033,C0587,O00742,01/03/2025 09:32,track_order,S56165,Android,North,520,1,Success,High
+AE00034,C0245,No_Order_Link,,search_route,S39479,Android,Central,510,1,Success,High
+AE00035,C0017,No_Order_Link,10/08/2025 17:17,payment_retry,S20798,iOS,South,60,1,Success,Low
+AE00036,C0007,O00977,05/03/2025 17:47,chat_escalated,S19561,iOS,Central,362,0,Failed,High
+AE00037,C0160,No_Order_Link,,chat_opened,S73982,Android,East,458,1,Success,High
+AE00038,C0166,O00475,,eta_refresh,S10481,iOS,West,324,1,Success,High
+AE00039,C0274,No_Order_Link,01/09/2024 23:40,payment_retry,S24754,iOS,Central,528,1,Success,High
+AE00040,C0532,O01015,,search_route,S82851,iOS,West,724,1,Success,High
+AE00041,C0075,O00349,,track_order,S44614,Android,Riverside,670,1,Success,High
+AE00042,C0409,O00044,,search_route,S80779,iOS,North,524,1,Success,High
+AE00043,C0200,O00954,,eta_refresh,S78974,Android,West,287,1,Success,Medium
+AE00044,C0633,O01022,06/04/2025 17:13,search_route,S44218,Android,Central,588,1,Success,High
+AE00045,C0163,O00696,10/09/2024 22:04,payment_retry,S76855,iOS,Airport,555,1,Success,High
+AE00046,C0531,O00016,,search_route,S55883,Web,West,326,1,Success,High
+AE00047,C0063,O00159,,track_order,S29662,iOS,East,344,1,Success,High
+AE00048,C0306,O01222,,chat_escalated,S77519,Android,Riverside,166,0,Failed,Medium
+AE00049,C0381,O01086,11/11/2025 17:22,chat_opened,S99244,Android,West,113,1,Success,Medium
+AE00050,C0114,No_Order_Link,01/05/2024 23:16,track_order,S64182,Android,North,545,1,Success,High
+AE00051,C0080,O00512,,eta_refresh,S35136,Android,Central,473,1,Success,High
+AE00052,C0326,O01080,02/12/2024 02:37,payment_retry,S42021,Android,North,570,0,Failed,High
+AE00053,C0349,O00467,,delivery_instruction_update,S83805,iOS,South,255,1,Success,Medium
+AE00054,C0138,O00189,05/01/2025 02:00,search_route,S82990,iOS,South,73,1,Success,Low
+AE00055,C0120,O00922,,track_order,S55056,iOS,Airport,800,1,Success,High
+AE00056,C0556,O01180,,payment_retry,S77071,Android,North,592,0,Failed,High
+AE00057,C0266,O00600,11/03/2025 13:54,track_order,S51373,Android,East,585,1,Success,High
+AE00058,C0187,No_Order_Link,,search_route,S24062,iOS,Airport,207,1,Success,Medium
+AE00059,C0613,No_Order_Link,,delivery_instruction_update,S18202,Android,East,327,1,Success,High
+AE00060,C0490,O00551,,search_route,S69751,iOS,Central,270,1,Success,Medium
+AE00061,C0551,O01205,,track_order,S46023,iOS,Airport,418,1,Success,High
+AE00062,C0116,O01105,,track_order,S57220,Android,Riverside,838,1,Success,High
+AE00063,C0549,O00656,11/06/2024 15:04,delivery_instruction_update,S42721,Android,East,274,1,Success,Medium
+AE00064,C0515,O00032,,track_order,S99350,Android,Central,840,1,Success,High
+AE00065,C0127,O01042,04/03/2024 04:07,delivery_instruction_update,S23520,Android,East,287,1,Success,Medium
+AE00066,C0612,No_Order_Link,,payment_retry,S90136,Android,Riverside,60,0,Failed,Low
+AE00067,C0113,O00822,,eta_refresh,S57776,Android,North,594,1,Success,High
+AE00068,C0130,O00096,04/06/2024 13:41,chat_opened,S29137,Android,Central,60,1,Success,Low
+AE00069,C0303,No_Order_Link,,payment_retry,S60656,Android,South,637,0,Failed,High
+AE00070,C0063,O00689,06/11/2025 06:37,chat_opened,S88132,iOS,Central,477,1,Success,High
+AE00071,C0565,O01092,10/11/2024 06:33,chat_opened,S38006,iOS,East,300,1,Success,Medium
+AE00072,C0006,O00802,11/10/2025 23:09,track_order,S37414,Android,Central,155,1,Success,Medium
+AE00073,C0521,No_Order_Link,,cancel_attempt,S18062,Web,Airport,392,1,Success,High
+AE00074,C0522,No_Order_Link,,chat_opened,S11111,iOS,Airport,347,1,Success,High
+AE00075,C0439,O00245,,delivery_instruction_update,S47526,iOS,Airport,463,1,Success,High
+AE00076,C0221,O01006,,delivery_instruction_update,S50746,Android,East,1005,1,Success,High
+AE00077,C0549,O01026,06/12/2024 20:18,search_route,S59198,iOS,East,546,1,Success,High
+AE00078,C0328,No_Order_Link,,eta_refresh,S67487,Android,Airport,853,1,Success,High
+AE00079,C0371,O00950,,delivery_instruction_update,S75895,iOS,Riverside,646,1,Success,High
+AE00080,C0181,O00757,01/08/2024 01:12,search_route,S51497,Android,South,783,1,Success,High
+AE00081,C0182,O00976,,track_order,S96252,Android,West,422,1,Success,High
+AE00082,C0231,O00506,12/03/2025 00:20,search_route,S46240,iOS,East,60,1,Success,Low
+AE00083,C0215,O00602,09/12/2024 22:25,track_order,S29184,iOS,East,265,1,Success,Medium
+AE00084,C0021,O01124,,delivery_instruction_update,S65491,iOS,South,688,1,Success,High
+AE00085,C0634,O01212,,delivery_instruction_update,S30667,Android,Airport,843,1,Success,High
+AE00086,C0256,No_Order_Link,,search_route,S82272,iOS,South,813,1,Success,High
+AE00087,C0218,O00386,,search_route,S21479,Android,Riverside,401,1,Success,High
+AE00088,C0157,No_Order_Link,06/12/2024 21:08,chat_opened,S21347,Android,North,561,1,Success,High
+AE00089,C0637,O00619,01/02/2024 17:18,search_route,S54109,Web,North,60,1,Success,Low
+AE00090,C0044,O00078,,payment_retry,S76455,Android,North,820,1,Success,High
+AE00091,C0204,O00772,12/06/2025 06:51,chat_escalated,S24981,iOS,East,610,1,Success,High
+AE00092,C0129,O00080,,eta_refresh,S30798,Android,Central,522,1,Success,High
+AE00093,C0025,O00405,,payment_retry,S57429,iOS,East,440,1,Success,High
+AE00094,C0010,No_Order_Link,08/01/2025 11:56,track_order,S78031,iOS,South,573,1,Success,High
+AE00095,C0428,O01057,,delivery_instruction_update,S81735,Web,West,399,1,Success,High
+AE00096,C0424,O00426,02/07/2025 00:14,track_order,S50881,Web,East,562,1,Success,High
+AE00097,C0468,O00460,06/10/2025 04:05,payment_retry,S77602,Android,Riverside,404,0,Failed,High
+AE00098,C0101,No_Order_Link,,chat_escalated,S89859,iOS,Riverside,401,1,Success,High
+AE00099,C0095,O00709,,payment_retry,S33955,Android,Riverside,138,1,Success,Medium
+AE00100,C0312,No_Order_Link,,chat_escalated,S86296,Android,Airport,137,0,Failed,Medium
+AE00101,C0149,No_Order_Link,08/08/2025 19:08,cancel_attempt,S34862,Web,Central,618,1,Success,High
+AE00102,C0272,O01227,,chat_escalated,S62522,Android,East,982,1,Success,High
+AE00103,C0306,O00114,10/02/2025 10:34,payment_retry,S19712,Web,North,551,1,Success,High
+AE00104,C0429,O00170,,chat_opened,S25315,Android,Riverside,649,1,Success,High
+AE00105,C0540,O00428,,cancel_attempt,S64900,iOS,Riverside,153,1,Success,Medium
+AE00106,C0360,O01144,,search_route,S96181,Android,South,216,1,Success,Medium
+AE00107,C0081,O00858,,chat_escalated,S34476,Android,North,449,0,Failed,High
+AE00108,C0307,No_Order_Link,,eta_refresh,S13993,Web,Central,1285,1,Success,High
+AE00109,C0114,O00393,,eta_refresh,S22089,Android,Airport,533,1,Success,High
+AE00110,C0382,O00099,07/03/2024 02:04,delivery_instruction_update,S87255,Web,Central,209,1,Success,Medium
+AE00111,C0565,O00055,02/06/2025 03:15,cancel_attempt,S80723,Android,Riverside,219,1,Success,Medium
+AE00112,C0259,O00051,,search_route,S67232,Android,Central,602,1,Success,High
+AE00113,C0540,O01132,,search_route,S21806,Android,West,510,1,Success,High
+AE00114,C0135,O00217,06/02/2025 18:48,eta_refresh,S46677,iOS,West,464,1,Success,High
+AE00115,C0012,O00781,,track_order,S41963,iOS,North,546,1,Success,High
+AE00116,C0237,O00033,,eta_refresh,S56150,iOS,Central,422,1,Success,High
+AE00117,C0122,O00043,04/11/2024 11:39,track_order,S18818,Android,North,387,1,Success,High
+AE00118,C0459,O00059,07/12/2024 20:41,track_order,S52877,Android,North,629,1,Success,High
+AE00119,C0153,O00021,,track_order,S89481,Web,North,628,1,Success,High
+AE00120,C0429,O00367,08/09/2024 08:11,delivery_instruction_update,S53741,Android,Central,1218,1,Success,High
+AE00121,C0451,O00857,,payment_retry,S19782,Android,West,862,0,Failed,High
+AE00122,C0178,O00979,,eta_refresh,S68778,iOS,East,312,1,Success,High
+AE00123,C0250,O00011,,payment_retry,S15600,Android,Central,1558,1,Success,High
+AE00124,C0348,No_Order_Link,03/06/2025 23:34,eta_refresh,S29360,Android,East,537,1,Success,High
+AE00125,C0430,O01083,,delivery_instruction_update,S35887,Android,South,510,1,Success,High
+AE00126,C0343,O00847,,eta_refresh,S81938,iOS,Central,433,1,Success,High
+AE00127,C0135,O01205,11/12/2025 01:05,track_order,S33676,Web,West,299,1,Success,Medium
+AE00128,C0139,No_Order_Link,,chat_opened,S89566,Android,Riverside,302,1,Success,High
+AE00129,C0234,O01211,,search_route,S11783,Android,South,304,1,Success,High
+AE00130,C0499,O00863,01/12/2024 22:22,delivery_instruction_update,S63325,Android,East,286,1,Success,Medium
+AE00131,C0344,O00395,12/09/2025 05:51,eta_refresh,S40076,Android,East,751,1,Success,High
+AE00132,C0504,O00741,,chat_opened,S11696,Android,West,375,1,Success,High
+AE00133,C0119,No_Order_Link,,eta_refresh,S63204,Android,West,512,1,Success,High
+AE00134,C0074,O00216,,eta_refresh,S31994,Android,Airport,368,1,Success,High
+AE00135,C0447,O00395,05/03/2025 11:11,chat_opened,S28174,iOS,East,418,1,Success,High
+AE00136,C0324,No_Order_Link,09/05/2025 10:01,payment_retry,S41186,Android,East,491,1,Success,High
+AE00137,C0318,O00669,,search_route,S42305,Android,North,289,1,Success,Medium
+AE00138,C0495,O00863,07/04/2024 03:28,delivery_instruction_update,S41862,iOS,South,641,1,Success,High
+AE00139,C0589,O01195,04/06/2024 09:08,track_order,S18650,iOS,South,263,1,Success,Medium
+AE00140,C0026,O00312,,track_order,S35078,iOS,West,639,1,Success,High
+AE00141,C0644,O00956,,track_order,S51247,Android,Central,901,1,Success,High
+AE00142,C0005,O00103,,track_order,S33250,Android,West,187,1,Success,Medium
+AE00143,C0025,O00124,,cancel_attempt,S88076,Android,Airport,1039,1,Success,High
+AE00144,C0347,O00708,10/08/2024 10:04,eta_refresh,S80449,Android,North,648,1,Success,High
+AE00145,C0062,O01049,,delivery_instruction_update,S88111,iOS,Central,159,1,Success,Medium
+AE00146,C0228,O00311,08/02/2025 23:18,track_order,S69169,Android,North,275,1,Success,Medium
+AE00147,C0128,O00020,,track_order,S54633,iOS,Central,836,1,Success,High
+AE00148,C0634,No_Order_Link,,track_order,S69151,Android,Airport,263,1,Success,Medium
+AE00149,C0236,O00733,03/04/2024 12:19,delivery_instruction_update,S97668,Android,East,191,1,Success,Medium
+AE00150,C0207,O00017,12/02/2025 08:49,cancel_attempt,S30266,Android,South,118,1,Success,Medium
+AE00151,C0472,O00129,,search_route,S28386,Android,Airport,1035,1,Success,High
+AE00152,C0134,O00890,,payment_retry,S79279,iOS,East,609,1,Success,High
+AE00153,C0540,No_Order_Link,,search_route,S92690,Android,Central,360,1,Success,High
+AE00154,C0096,O00813,04/03/2025 00:09,track_order,S26942,iOS,Riverside,187,1,Success,Medium
+AE00155,C0256,O01136,,search_route,S78880,iOS,East,780,1,Success,High
+AE00156,C0004,O00998,05/12/2025 19:56,chat_opened,S19094,Android,North,618,1,Success,High
+AE00157,C0568,O01041,07/05/2025 07:53,chat_opened,S94050,Android,East,669,1,Success,High
+AE00158,C0444,O00239,05/01/2024 10:17,track_order,S64444,Android,South,558,1,Success,High
+AE00159,C0057,O01073,10/10/2025 01:20,search_route,S80676,Android,South,100,1,Success,Low
+AE00160,C0351,No_Order_Link,09/12/2025 22:47,chat_opened,S51613,Android,Central,264,1,Success,Medium
+AE00161,C0308,O00031,,search_route,S73430,iOS,East,635,1,Success,High
+AE00162,C0277,No_Order_Link,,cancel_attempt,S90878,iOS,Riverside,477,1,Success,High
+AE00163,C0159,O00703,,search_route,S29863,Android,South,586,1,Success,High
+AE00164,C0028,O00547,,eta_refresh,S21845,Android,West,330,1,Success,High
+AE00165,C0211,O01203,,track_order,S42312,iOS,West,141,1,Success,Medium
+AE00166,C0152,No_Order_Link,,chat_escalated,S45482,iOS,South,60,1,Success,Low
+AE00167,C0327,No_Order_Link,,track_order,S97782,Android,Central,450,1,Success,High
+AE00168,C0428,O00991,,track_order,S94225,Android,Central,160,1,Success,Medium
+AE00169,C0236,O01007,,payment_retry,S31565,Android,Airport,252,1,Success,Medium
+AE00170,C0602,No_Order_Link,,track_order,S40147,iOS,West,642,1,Success,High
+AE00171,C0219,No_Order_Link,12/05/2024 01:18,chat_opened,S45451,iOS,Airport,659,1,Success,High
+AE00172,C0636,No_Order_Link,,eta_refresh,S15954,iOS,West,564,1,Success,High
+AE00173,C0604,O00323,05/12/2024 11:14,eta_refresh,S59591,Web,West,772,1,Success,High
+AE00174,C0516,No_Order_Link,,track_order,S79217,iOS,West,418,1,Success,High
+AE00175,C0027,O00040,,chat_opened,S27542,iOS,North,828,1,Success,High
+AE00176,C0443,O00475,,track_order,S99435,iOS,East,530,1,Success,High
+AE00177,C0431,No_Order_Link,,chat_opened,S90018,Android,Airport,338,1,Success,High
+AE00178,C0022,No_Order_Link,,delivery_instruction_update,S15462,Android,East,186,1,Success,Medium
+AE00179,C0634,O00605,,delivery_instruction_update,S52206,Android,North,231,1,Success,Medium
+AE00180,C0003,O00599,04/05/2024 22:39,cancel_attempt,S48720,Android,Airport,282,1,Success,Medium
+AE00181,C0602,No_Order_Link,,chat_opened,S38965,iOS,East,413,1,Success,High
+AE00182,C0438,O01213,,eta_refresh,S29723,Android,West,328,1,Success,High
+AE00183,C0227,No_Order_Link,04/07/2024 12:16,payment_retry,S65322,iOS,Riverside,76,1,Success,Low
+AE00184,C0383,O00290,,eta_refresh,S10919,Android,Airport,673,1,Success,High
+AE00185,C0540,O00636,01/01/2024 04:02,payment_retry,S50299,Web,East,550,1,Success,High
+AE00186,C0297,O00033,01/09/2024 21:50,delivery_instruction_update,S98196,Web,Airport,811,1,Success,High
+AE00187,C0500,No_Order_Link,04/03/2024 04:53,track_order,S84399,iOS,Riverside,516,1,Success,High
+AE00188,C0576,No_Order_Link,03/10/2025 15:20,chat_opened,S72332,iOS,South,376,1,Success,High
+AE00189,C0491,O00686,08/03/2024 12:43,chat_opened,S98299,iOS,Central,320,1,Success,High
+AE00190,C0006,O00220,,track_order,S89254,Web,West,407,1,Success,High
+AE00191,C0559,O00582,03/06/2024 18:13,search_route,S57395,Android,Central,304,1,Success,High
+AE00192,C0415,O00091,04/04/2025 13:39,eta_refresh,S25456,Web,Riverside,238,1,Success,Medium
+AE00193,C0558,O00320,08/10/2024 19:31,payment_retry,S70607,iOS,Airport,1701,1,Success,High
+AE00194,C0502,No_Order_Link,,track_order,S92171,Web,Riverside,291,1,Success,Medium
+AE00195,C0182,O00489,02/12/2024 12:39,track_order,S88300,iOS,Riverside,553,1,Success,High
+AE00196,C0308,O01227,,payment_retry,S74695,iOS,Airport,280,0,Failed,Medium
+AE00197,C0287,No_Order_Link,01/05/2024 09:57,track_order,S12792,iOS,South,222,1,Success,Medium
+AE00198,C0229,No_Order_Link,11/10/2025 12:31,payment_retry,S61126,iOS,Riverside,321,1,Success,High
+AE00199,C0458,O00502,03/05/2025 09:23,track_order,S54839,Android,East,794,1,Success,High
+AE00200,C0422,O00420,,eta_refresh,S20454,Android,Riverside,574,1,Success,High
+AE00201,C0139,O00783,08/12/2024 08:07,eta_refresh,S79498,Android,West,60,1,Success,Low
+AE00202,C0190,O00008,,track_order,S46827,Android,Riverside,747,1,Success,High
+AE00203,C0050,O01110,,eta_refresh,S88874,iOS,North,792,1,Success,High
+AE00204,C0370,O00390,,search_route,S14150,iOS,Airport,414,1,Success,High
+AE00205,C0565,O01188,12/02/2025 17:43,search_route,S65549,iOS,West,521,1,Success,High
+AE00206,C0540,O00860,08/10/2025 13:22,track_order,S41049,iOS,Central,423,1,Success,High
+AE00207,C0611,O00360,,track_order,S85216,iOS,North,443,1,Success,High
+AE00208,C0492,O00439,,delivery_instruction_update,S14892,iOS,East,729,1,Success,High
+AE00209,C0311,O00549,,search_route,S69288,iOS,East,479,1,Success,High
+AE00210,C0066,O00764,,track_order,S97799,Android,North,610,1,Success,High
+AE00211,C0154,O00597,03/10/2025 18:31,chat_opened,S23758,iOS,North,273,1,Success,Medium
+AE00212,C0050,O00656,12/09/2024 02:17,chat_escalated,S30429,Web,Airport,474,0,Failed,High
+AE00213,C0165,O00825,,cancel_attempt,S21498,Android,West,337,1,Success,High
+AE00214,C0036,O00929,,chat_escalated,S95975,iOS,Central,60,1,Success,Low
+AE00215,C0408,No_Order_Link,11/04/2024 12:36,eta_refresh,S99032,Web,Riverside,753,1,Success,High
+AE00216,C0353,O00689,,track_order,S56502,Android,West,193,1,Success,Medium
+AE00217,C0489,O00452,,track_order,S41923,iOS,East,523,1,Success,High
+AE00218,C0638,O00997,07/11/2024 07:41,search_route,S93085,Android,Airport,137,1,Success,Medium
+AE00219,C0495,O00473,11/06/2024 10:57,cancel_attempt,S46630,iOS,Central,371,1,Success,High
+AE00220,C0469,O00413,10/02/2025 15:05,search_route,S61687,iOS,Airport,1046,1,Success,High
+AE00221,C0309,O01074,,delivery_instruction_update,S93181,Android,West,584,1,Success,High
+AE00222,C0511,O00539,,search_route,S16455,Android,West,606,1,Success,High
+AE00223,C0506,No_Order_Link,01/05/2025 02:35,eta_refresh,S19581,Android,Riverside,717,1,Success,High
+AE00224,C0611,No_Order_Link,12/03/2025 15:48,chat_escalated,S69785,Android,North,433,1,Success,High
+AE00225,C0105,O00659,07/03/2025 18:05,search_route,S69038,Android,South,401,1,Success,High
+AE00226,C0259,O00918,07/10/2025 21:37,track_order,S12105,Android,Central,581,1,Success,High
+AE00227,C0194,O00918,06/11/2024 02:54,delivery_instruction_update,S26318,iOS,Riverside,241,1,Success,Medium
+AE00228,C0220,O01213,,track_order,S31464,Android,North,261,1,Success,Medium
+AE00229,C0392,O00450,,track_order,S32859,iOS,Riverside,484,1,Success,High
+AE00230,C0467,O00698,06/02/2025 00:55,payment_retry,S79237,Web,West,368,1,Success,High
+AE00231,C0375,O00188,,chat_opened,S62538,iOS,Riverside,394,1,Success,High
+AE00232,C0475,O00336,06/10/2025 10:39,chat_opened,S19410,iOS,North,614,1,Success,High
+AE00233,C0144,O00990,09/06/2025 23:35,search_route,S25207,Web,South,440,1,Success,High
+AE00234,C0447,O00068,,search_route,S16617,iOS,Central,718,1,Success,High
+AE00235,C0102,O00065,,track_order,S32192,Android,East,531,1,Success,High
+AE00236,C0215,O00722,,payment_retry,S66874,iOS,Airport,478,1,Success,High
+AE00237,C0375,O00581,,eta_refresh,S75980,Android,East,339,1,Success,High
+AE00238,C0611,O00098,,delivery_instruction_update,S27480,Web,Airport,321,1,Success,High
+AE00239,C0291,O00746,,chat_escalated,S83143,iOS,Riverside,215,1,Success,Medium
+AE00240,C0109,O00771,12/08/2025 03:46,chat_opened,S68728,Android,Central,895,1,Success,High
+AE00241,C0024,O00814,,chat_opened,S22478,iOS,Riverside,624,1,Success,High
+AE00242,C0070,O00627,,delivery_instruction_update,S59972,iOS,Central,792,1,Success,High
+AE00243,C0217,O00878,07/05/2024 13:59,chat_opened,S89574,Android,North,646,1,Success,High
+AE00244,C0355,O01236,,chat_escalated,S49312,Android,East,487,0,Failed,High
+AE00245,C0159,O00570,,search_route,S22380,Web,South,757,1,Success,High
+AE00246,C0173,O00188,,search_route,S73690,iOS,East,490,1,Success,High
+AE00247,C0056,No_Order_Link,05/04/2025 18:58,delivery_instruction_update,S49126,Android,East,734,1,Success,High
+AE00248,C0558,O01118,,payment_retry,S95292,iOS,Riverside,488,1,Success,High
+AE00249,C0120,No_Order_Link,,payment_retry,S60781,Android,South,591,0,Failed,High
+AE00250,C0409,No_Order_Link,,delivery_instruction_update,S80264,Web,Riverside,553,1,Success,High
+AE00251,C0623,O00162,,payment_retry,S96369,Android,Central,375,1,Success,High
+AE00252,C0202,O00936,,track_order,S97343,iOS,Airport,278,1,Success,Medium
+AE00253,C0485,O01098,,chat_escalated,S76383,Android,West,799,1,Success,High
+AE00254,C0419,O00265,,track_order,S69799,iOS,East,543,1,Success,High
+AE00255,C0563,O00972,04/11/2024 10:46,payment_retry,S15134,Android,Central,376,1,Success,High
+AE00256,C0447,O00220,10/08/2025 16:41,delivery_instruction_update,S35671,Android,South,466,1,Success,High
+AE00257,C0643,No_Order_Link,,eta_refresh,S34258,iOS,Central,545,1,Success,High
+AE00258,C0489,O00812,,payment_retry,S53794,Web,Riverside,60,0,Failed,Low
+AE00259,C0055,O01208,,delivery_instruction_update,S66374,iOS,West,247,1,Success,Medium
+AE00260,C0109,O00932,,cancel_attempt,S74608,Web,Airport,350,1,Success,High
+AE00261,C0433,O00167,02/10/2025 10:12,search_route,S51615,Android,Riverside,236,1,Success,Medium
+AE00262,C0079,O00532,,search_route,S78668,Web,East,392,1,Success,High
+AE00263,C0330,O01163,,track_order,S98156,Web,Riverside,60,1,Success,Low
+AE00264,C0134,No_Order_Link,,track_order,S46151,iOS,West,60,1,Success,Low
+AE00265,C0192,O01137,11/06/2024 03:00,chat_opened,S53981,Android,Central,1240,1,Success,High
+AE00266,C0378,O00856,12/12/2024 10:44,search_route,S22322,Android,Airport,536,1,Success,High
+AE00267,C0473,No_Order_Link,,eta_refresh,S55731,iOS,Riverside,542,1,Success,High
+AE00268,C0377,O01202,05/04/2024 16:58,eta_refresh,S22564,iOS,West,429,1,Success,High
+AE00269,C0325,O00863,,delivery_instruction_update,S64498,Android,Riverside,304,1,Success,High
+AE00270,C0578,O00326,09/09/2025 01:15,chat_opened,S29661,Android,Airport,503,1,Success,High
+AE00271,C0322,O01193,,search_route,S43982,Web,North,627,1,Success,High
+AE00272,C0338,O01203,03/02/2025 04:57,eta_refresh,S33897,iOS,East,190,1,Success,Medium
+AE00273,C0433,O01067,,track_order,S48118,Web,Riverside,134,1,Success,Medium
+AE00274,C0049,O01167,,track_order,S94086,Android,Riverside,495,1,Success,High
+AE00275,C0485,O00676,06/12/2024 17:54,delivery_instruction_update,S57005,Android,North,279,1,Success,Medium
+AE00276,C0111,O01221,,search_route,S73488,Android,South,300,1,Success,Medium
+AE00277,C0580,O00409,,payment_retry,S59602,Android,West,552,0,Failed,High
+AE00278,C0337,O01073,11/12/2024 03:16,chat_opened,S88214,Android,Central,421,1,Success,High
+AE00279,C0112,O01215,,track_order,S90848,Android,North,582,1,Success,High
+AE00280,C0456,O00907,,track_order,S12463,iOS,North,251,1,Success,Medium
+AE00281,C0310,O00397,03/06/2024 12:05,search_route,S39460,Android,South,457,1,Success,High
+AE00282,C0234,No_Order_Link,08/08/2024 19:03,chat_opened,S29738,iOS,West,1007,1,Success,High
+AE00283,C0589,O00589,,payment_retry,S32645,Android,South,362,1,Success,High
+AE00284,C0604,O00371,,search_route,S76025,Android,East,60,1,Success,Low
+AE00285,C0440,O00539,,search_route,S17327,iOS,Airport,414,1,Success,High
+AE00286,C0358,No_Order_Link,,search_route,S60811,iOS,Central,364,1,Success,High
+AE00287,C0573,O00074,05/02/2024 05:45,search_route,S30431,Android,East,571,1,Success,High
+AE00288,C0273,O00480,,cancel_attempt,S63671,Android,North,60,1,Success,Low
+AE00289,C0207,O00654,03/02/2024 10:12,payment_retry,S19707,Android,Riverside,343,1,Success,High
+AE00290,C0399,O00951,08/01/2025 22:46,delivery_instruction_update,S84446,Android,East,457,1,Success,High
+AE00291,C0312,O00330,,track_order,S95883,Android,West,405,1,Success,High
+AE00292,C0520,O00929,,eta_refresh,S72274,iOS,North,60,1,Success,Low
+AE00293,C0073,O00609,07/10/2024 13:17,chat_escalated,S78813,Android,West,1074,1,Success,High
+AE00294,C0492,O00876,,track_order,S33068,Android,West,405,1,Success,High
+AE00295,C0449,O01002,,payment_retry,S13138,Android,West,246,1,Success,Medium
+AE00296,C0471,O00635,,eta_refresh,S10325,Android,Riverside,187,1,Success,Medium
+AE00297,C0411,O01163,,payment_retry,S30130,iOS,Central,565,1,Success,High
+AE00298,C0107,O01189,,track_order,S71004,iOS,East,78,1,Success,Low
+AE00299,C0451,No_Order_Link,,eta_refresh,S92082,Web,South,529,1,Success,High
+AE00300,C0014,O00867,,eta_refresh,S10509,Android,North,214,1,Success,Medium
+AE00301,C0503,No_Order_Link,,eta_refresh,S91821,iOS,North,294,1,Success,Medium
+AE00302,C0555,O00728,,chat_opened,S23029,Web,North,692,1,Success,High
+AE00303,C0274,O00142,01/01/2025 07:52,cancel_attempt,S47090,Web,South,233,1,Success,Medium
+AE00304,C0401,O00211,,search_route,S24776,Web,North,324,1,Success,High
+AE00305,C0428,O00667,02/12/2024 16:22,eta_refresh,S55317,iOS,East,226,1,Success,Medium
+AE00306,C0401,O00753,,chat_escalated,S68086,iOS,East,265,1,Success,Medium
+AE00307,C0173,O00956,01/09/2025 16:55,chat_escalated,S58130,Android,Central,270,0,Failed,Medium
+AE00308,C0182,O00880,04/01/2025 08:58,eta_refresh,S58033,iOS,Central,535,1,Success,High
+AE00309,C0169,O01161,,delivery_instruction_update,S21517,Android,West,295,1,Success,Medium
+AE00310,C0229,O01161,,chat_opened,S21891,iOS,West,206,1,Success,Medium
+AE00311,C0312,No_Order_Link,,chat_escalated,S51997,iOS,West,243,1,Success,Medium
+AE00312,C0517,No_Order_Link,,eta_refresh,S16386,Android,Riverside,512,1,Success,High
+AE00313,C0337,O00032,,track_order,S88456,Android,West,400,1,Success,High
+AE00314,C0047,O00755,,cancel_attempt,S71075,iOS,South,579,1,Success,High
+AE00315,C0137,O00044,,delivery_instruction_update,S89689,Android,West,296,1,Success,Medium
+AE00316,C0304,O01244,,eta_refresh,S25067,Android,Airport,440,1,Success,High
+AE00317,C0014,O00912,05/03/2025 14:40,track_order,S67860,Web,Riverside,584,1,Success,High
+AE00318,C0031,O00212,01/01/2024 15:57,track_order,S16209,iOS,Airport,668,1,Success,High
+AE00319,C0330,No_Order_Link,08/10/2025 16:14,track_order,S94639,Android,North,231,1,Success,Medium
+AE00320,C0244,O00884,,chat_opened,S67074,Android,North,60,1,Success,Low
+AE00321,C0239,O00437,02/01/2024 21:51,search_route,S46797,iOS,Riverside,356,1,Success,High
+AE00322,C0481,O00344,,eta_refresh,S17051,Android,Riverside,147,1,Success,Medium
+AE00323,C0648,O01237,03/11/2025 03:52,payment_retry,S20836,iOS,Central,752,0,Failed,High
+AE00324,C0078,O00721,,eta_refresh,S34536,Web,East,310,1,Success,High
+AE00325,C0479,O00062,,eta_refresh,S70624,Android,North,180,1,Success,Medium
+AE00326,C0518,O00946,07/01/2025 13:21,track_order,S29534,iOS,Airport,202,1,Success,Medium
+AE00327,C0186,O00341,,search_route,S92655,Web,Central,311,1,Success,High
+AE00328,C0517,No_Order_Link,12/05/2024 05:55,track_order,S81197,Android,North,76,1,Success,Low
+AE00329,C0172,O00193,,track_order,S67439,Android,Airport,387,1,Success,High
+AE00330,C0479,O00220,06/04/2024 23:57,payment_retry,S57427,Web,Airport,577,1,Success,High
+AE00331,C0227,No_Order_Link,,eta_refresh,S87401,Web,South,731,1,Success,High
+AE00332,C0247,O00391,,chat_opened,S99938,Android,West,409,1,Success,High
+AE00333,C0138,O00453,05/05/2024 18:40,chat_opened,S20673,iOS,North,944,1,Success,High
+AE00334,C0274,No_Order_Link,,track_order,S60524,Web,Central,313,1,Success,High
+AE00335,C0520,O00499,08/01/2025 01:29,chat_opened,S97260,iOS,East,389,1,Success,High
+AE00336,C0467,No_Order_Link,,payment_retry,S49538,Web,East,468,1,Success,High
+AE00337,C0529,O00319,,search_route,S60782,iOS,Airport,385,1,Success,High
+AE00338,C0257,O00890,08/01/2024 09:26,payment_retry,S92069,Android,South,523,1,Success,High
+AE00339,C0316,No_Order_Link,06/04/2025 13:22,search_route,S71556,iOS,Airport,590,1,Success,High
+AE00340,C0330,O00762,06/11/2024 14:01,track_order,S97505,iOS,East,444,1,Success,High
+AE00341,C0537,O01121,,chat_opened,S44241,iOS,Riverside,527,1,Success,High
+AE00342,C0245,O00134,,delivery_instruction_update,S34258,Android,West,897,1,Success,High
+AE00343,C0113,No_Order_Link,,eta_refresh,S30321,Android,Central,595,1,Success,High
+AE00344,C0429,No_Order_Link,,chat_escalated,S24008,Web,Central,998,0,Failed,High
+AE00345,C0535,O01106,,track_order,S27492,iOS,North,425,1,Success,High
+AE00346,C0367,O00864,,track_order,S85123,Android,East,466,1,Success,High
+AE00347,C0198,No_Order_Link,,track_order,S52660,Web,South,632,1,Success,High
+AE00348,C0470,O00950,05/06/2025 06:45,chat_opened,S12702,Android,Central,73,1,Success,Low
+AE00349,C0568,O00258,07/01/2025 01:46,search_route,S68625,Android,Central,599,1,Success,High
+AE00350,C0440,O00649,07/11/2024 13:26,chat_escalated,S55047,Web,Riverside,431,1,Success,High
+AE00351,C0374,No_Order_Link,08/10/2024 14:40,chat_opened,S77770,iOS,Riverside,665,1,Success,High
+AE00352,C0372,O01052,07/04/2025 15:37,payment_retry,S40310,Android,East,339,0,Failed,High
+AE00353,C0467,O01164,,track_order,S84118,Web,Airport,1240,1,Success,High
+AE00354,C0240,O00522,,payment_retry,S88059,iOS,Airport,224,1,Success,Medium
+AE00355,C0024,O00498,09/05/2025 07:19,eta_refresh,S50272,Web,Central,162,1,Success,Medium
+AE00356,C0188,No_Order_Link,06/02/2025 05:26,delivery_instruction_update,S19198,Android,Airport,439,1,Success,High
+AE00357,C0237,O00715,,track_order,S58207,Android,West,155,1,Success,Medium
+AE00358,C0150,No_Order_Link,,cancel_attempt,S49398,iOS,West,436,1,Success,High
+AE00359,C0246,O00285,,chat_opened,S75742,Android,North,421,1,Success,High
+AE00360,C0494,No_Order_Link,,search_route,S90549,Android,South,546,1,Success,High
+AE00361,C0107,O01138,08/11/2024 22:50,chat_opened,S52326,Android,Airport,1690,1,Success,High
+AE00362,C0110,O00472,,cancel_attempt,S41990,Android,Central,712,1,Success,High
+AE00363,C0502,No_Order_Link,,eta_refresh,S13723,iOS,West,314,1,Success,High
+AE00364,C0442,O00437,,chat_opened,S62470,Android,West,191,1,Success,Medium
+AE00365,C0495,No_Order_Link,,track_order,S52410,Web,South,345,1,Success,High
+AE00366,C0303,O00876,02/12/2025 17:14,track_order,S28427,iOS,East,374,1,Success,High
+AE00367,C0422,No_Order_Link,12/09/2025 08:52,payment_retry,S64636,iOS,Riverside,250,0,Failed,Medium
+AE00368,C0198,O00108,,eta_refresh,S81518,iOS,South,690,1,Success,High
+AE00369,C0233,O00056,07/03/2025 19:28,payment_retry,S64693,Android,South,767,1,Success,High
+AE00370,C0143,O00349,11/04/2025 05:48,track_order,S81391,Android,South,248,1,Success,Medium
+AE00371,C0465,O00120,09/02/2025 04:20,delivery_instruction_update,S69933,Android,South,567,1,Success,High
+AE00372,C0031,O01153,01/11/2025 08:26,chat_escalated,S31367,Android,North,421,0,Failed,High
+AE00373,C0428,O00887,06/05/2024 00:55,eta_refresh,S30198,Web,Airport,749,1,Success,High
+AE00374,C0235,No_Order_Link,,delivery_instruction_update,S26479,Android,South,446,1,Success,High
+AE00375,C0191,O01124,,delivery_instruction_update,S67260,iOS,Riverside,669,1,Success,High
+AE00376,C0097,O00348,,track_order,S46372,Android,East,337,1,Success,High
+AE00377,C0144,O00866,,eta_refresh,S75566,Android,South,60,1,Success,Low
+AE00378,C0528,O01093,,track_order,S64607,iOS,Airport,668,1,Success,High
+AE00379,C0649,O00517,,chat_opened,S53800,iOS,South,301,1,Success,High
+AE00380,C0134,O01002,,eta_refresh,S23762,Android,Central,60,1,Success,Low
+AE00381,C0573,O00812,,eta_refresh,S64472,Android,East,517,1,Success,High
+AE00382,C0361,O01249,11/02/2025 07:29,eta_refresh,S86079,iOS,Central,428,1,Success,High
+AE00383,C0313,O01239,07/08/2025 22:02,chat_escalated,S25556,iOS,North,534,1,Success,High
+AE00384,C0425,O00303,,payment_retry,S91940,Android,Airport,265,1,Success,Medium
+AE00385,C0331,O01246,,delivery_instruction_update,S85959,iOS,Riverside,636,1,Success,High
+AE00386,C0269,O01127,,chat_opened,S72987,iOS,East,436,1,Success,High
+AE00387,C0430,No_Order_Link,,eta_refresh,S12449,Android,Central,1103,1,Success,High
+AE00388,C0437,No_Order_Link,07/07/2025 13:49,payment_retry,S40594,Android,Central,363,1,Success,High
+AE00389,C0026,O00884,,search_route,S34019,Web,Airport,1265,1,Success,High
+AE00390,C0140,No_Order_Link,,delivery_instruction_update,S39323,iOS,East,324,1,Success,High
+AE00391,C0058,No_Order_Link,06/01/2024 07:38,eta_refresh,S98672,Web,West,68,1,Success,Low
+AE00392,C0617,No_Order_Link,,chat_opened,S55184,Android,South,552,1,Success,High
+AE00393,C0406,O01209,01/01/2025 09:37,chat_escalated,S87121,iOS,West,324,1,Success,High
+AE00394,C0292,O01005,,chat_opened,S35246,iOS,East,267,1,Success,Medium
+AE00395,C0016,O00748,,search_route,S79318,iOS,Airport,161,1,Success,Medium
+AE00396,C0564,O00111,01/02/2024 03:02,track_order,S54033,Web,Airport,1633,1,Success,High
+AE00397,C0517,O00180,,search_route,S72253,iOS,Airport,676,1,Success,High
+AE00398,C0317,No_Order_Link,,track_order,S10823,Android,Riverside,442,1,Success,High
+AE00399,C0617,No_Order_Link,04/03/2025 23:33,search_route,S59034,iOS,Airport,504,1,Success,High
+AE00400,C0256,O01216,10/07/2024 04:49,search_route,S90819,iOS,North,149,1,Success,Medium
+AE00401,C0401,No_Order_Link,08/10/2025 10:58,eta_refresh,S66819,Android,West,692,1,Success,High
+AE00402,C0459,O00554,,track_order,S46288,iOS,South,655,1,Success,High
+AE00403,C0180,O00149,,payment_retry,S10192,Android,Central,108,1,Success,Medium
+AE00404,C0121,O01227,04/05/2025 09:01,eta_refresh,S46724,iOS,Riverside,521,1,Success,High
+AE00405,C0534,O00754,,search_route,S47493,Android,Airport,391,1,Success,High
+AE00406,C0347,No_Order_Link,,search_route,S35157,Web,South,314,1,Success,High
+AE00407,C0323,O00442,01/12/2025 17:00,track_order,S11233,iOS,Riverside,435,1,Success,High
+AE00408,C0188,O01142,,delivery_instruction_update,S52727,Android,West,94,1,Success,Low
+AE00409,C0553,O00968,,payment_retry,S15466,Android,South,247,1,Success,Medium
+AE00410,C0377,O00170,,cancel_attempt,S21027,Android,Central,556,1,Success,High
+AE00411,C0232,O00652,07/11/2025 06:55,eta_refresh,S54027,Web,West,318,1,Success,High
+AE00412,C0005,No_Order_Link,,search_route,S77981,Android,West,363,1,Success,High
+AE00413,C0615,O00548,,chat_opened,S29100,Web,East,415,1,Success,High
+AE00414,C0347,No_Order_Link,,delivery_instruction_update,S35015,Android,Airport,863,1,Success,High
+AE00415,C0073,No_Order_Link,,track_order,S23089,Android,East,189,1,Success,Medium
+AE00416,C0567,No_Order_Link,12/03/2024 09:17,payment_retry,S49000,Android,South,377,1,Success,High
+AE00417,C0381,O01091,,payment_retry,S83880,Android,West,93,0,Failed,Low
+AE00418,C0012,O01122,11/06/2025 16:41,track_order,S77156,Android,West,489,1,Success,High
+AE00419,C0098,No_Order_Link,,chat_escalated,S21703,iOS,South,218,0,Failed,Medium
+AE00420,C0292,O00068,07/12/2025 13:05,track_order,S85103,Android,North,313,1,Success,High
+AE00421,C0248,No_Order_Link,,payment_retry,S91752,Web,Riverside,626,1,Success,High
+AE00422,C0441,O00626,05/03/2024 17:49,eta_refresh,S44698,Android,Airport,1148,1,Success,High
+AE00423,C0397,No_Order_Link,,payment_retry,S97087,Android,East,417,1,Success,High
+AE00424,C0122,O00515,,track_order,S63816,Android,Airport,863,1,Success,High
+AE00425,C0444,O00651,,track_order,S51771,Web,Airport,427,1,Success,High
+AE00426,C0232,O00442,01/06/2024 16:17,eta_refresh,S91627,Android,East,385,1,Success,High
+AE00427,C0163,No_Order_Link,09/11/2024 08:22,delivery_instruction_update,S86956,Android,North,336,1,Success,High
+AE00428,C0410,No_Order_Link,,chat_opened,S38484,Android,Central,242,1,Success,Medium
+AE00429,C0604,O00119,,delivery_instruction_update,S89816,iOS,Riverside,374,1,Success,High
+AE00430,C0293,O00589,,eta_refresh,S54890,Android,North,507,1,Success,High
+AE00431,C0498,O00890,12/12/2024 02:40,search_route,S42910,Android,South,840,1,Success,High
+AE00432,C0566,No_Order_Link,,search_route,S57637,Android,North,489,1,Success,High
+AE00433,C0505,O01229,11/08/2024 11:31,cancel_attempt,S95338,Web,South,173,1,Success,Medium
+AE00434,C0568,O00624,07/01/2024 20:26,track_order,S65887,Android,East,572,1,Success,High
+AE00435,C0443,No_Order_Link,,eta_refresh,S85198,Android,South,627,1,Success,High
+AE00436,C0105,O00400,09/11/2024 01:02,payment_retry,S32334,iOS,Riverside,607,1,Success,High
+AE00437,C0039,O01030,,payment_retry,S89304,iOS,West,153,0,Failed,Medium
+AE00438,C0141,O00110,06/03/2025 18:59,eta_refresh,S56257,Android,Riverside,880,1,Success,High
+AE00439,C0266,O00694,,chat_opened,S88251,iOS,South,442,1,Success,High
+AE00440,C0343,O00175,10/10/2024 07:45,eta_refresh,S65286,Android,East,343,1,Success,High
+AE00441,C0410,O00491,02/03/2025 05:01,track_order,S20334,Android,East,633,1,Success,High
+AE00442,C0399,O01089,,chat_opened,S61743,iOS,Airport,613,1,Success,High
+AE00443,C0352,O00052,,track_order,S44595,Web,North,427,1,Success,High
+AE00444,C0033,O00457,,chat_opened,S80276,Android,Central,444,1,Success,High
+AE00445,C0059,O00368,,search_route,S64535,Android,East,257,1,Success,Medium
+AE00446,C0363,No_Order_Link,12/08/2024 21:41,delivery_instruction_update,S49168,iOS,South,295,1,Success,Medium
+AE00447,C0482,No_Order_Link,,cancel_attempt,S25973,Android,Airport,427,1,Success,High
+AE00448,C0116,O00640,06/03/2025 06:20,payment_retry,S60860,Web,West,696,1,Success,High
+AE00449,C0448,O01046,,track_order,S75654,Android,Central,354,1,Success,High
+AE00450,C0127,O00569,,cancel_attempt,S31505,Android,Riverside,481,1,Success,High
+AE00451,C0263,O00397,,payment_retry,S48520,Web,North,566,1,Success,High
+AE00452,C0328,O01033,,payment_retry,S67845,Android,South,865,1,Success,High
+AE00453,C0533,O01050,01/07/2025 07:22,eta_refresh,S27396,Android,South,60,1,Success,Low
+AE00454,C0319,No_Order_Link,,cancel_attempt,S86441,Android,South,619,1,Success,High
+AE00455,C0185,No_Order_Link,,delivery_instruction_update,S73947,iOS,Riverside,144,1,Success,Medium
+AE00456,C0065,O00468,,chat_opened,S41927,iOS,West,445,1,Success,High
+AE00457,C0646,No_Order_Link,04/02/2025 08:36,payment_retry,S34228,Web,Airport,881,1,Success,High
+AE00458,C0227,No_Order_Link,02/08/2024 23:26,search_route,S49487,Android,North,606,1,Success,High
+AE00459,C0530,O00259,05/01/2025 22:20,eta_refresh,S39920,Android,Riverside,633,1,Success,High
+AE00460,C0207,No_Order_Link,04/08/2025 18:47,cancel_attempt,S22911,iOS,Riverside,253,1,Success,Medium
+AE00461,C0338,O00694,,search_route,S99353,Android,South,560,1,Success,High
+AE00462,C0306,O00871,07/08/2024 17:38,track_order,S25207,Web,Airport,1403,1,Success,High
+AE00463,C0632,O00578,12/12/2025 16:29,search_route,S67860,iOS,West,459,1,Success,High
+AE00464,C0141,No_Order_Link,,chat_opened,S99949,Android,East,498,1,Success,High
+AE00465,C0405,O00472,,payment_retry,S46496,Android,North,289,1,Success,Medium
+AE00466,C0340,O00877,02/07/2025 04:03,delivery_instruction_update,S79340,iOS,North,741,1,Success,High
+AE00467,C0020,O00568,,eta_refresh,S88112,Web,North,72,1,Success,Low
+AE00468,C0256,O00270,,chat_opened,S77533,Android,Airport,386,1,Success,High
+AE00469,C0364,O00426,10/01/2025 02:21,chat_opened,S25925,Android,North,230,1,Success,Medium
+AE00470,C0426,O00313,07/12/2024 14:41,chat_opened,S38146,iOS,North,630,1,Success,High
+AE00471,C0483,No_Order_Link,,track_order,S61566,iOS,Riverside,535,1,Success,High
+AE00472,C0598,O00433,08/03/2024 09:44,search_route,S33427,iOS,West,400,1,Success,High
+AE00473,C0237,O00215,,payment_retry,S43089,Android,Central,404,1,Success,High
+AE00474,C0395,O01240,11/06/2025 13:46,chat_opened,S54474,Android,West,476,1,Success,High
+AE00475,C0408,O00456,,track_order,S71913,iOS,South,763,1,Success,High
+AE00476,C0523,O00217,,track_order,S88872,Web,West,294,1,Success,Medium
+AE00477,C0266,No_Order_Link,,delivery_instruction_update,S53022,iOS,Airport,365,1,Success,High
+AE00478,C0629,O00162,08/04/2024 19:21,cancel_attempt,S92557,iOS,West,511,1,Success,High
+AE00479,C0607,O00836,01/09/2025 13:34,eta_refresh,S96851,iOS,West,266,1,Success,Medium
+AE00480,C0376,O00946,,eta_refresh,S83765,Web,West,655,1,Success,High
+AE00481,C0120,O00026,02/09/2025 09:36,eta_refresh,S31920,iOS,West,486,1,Success,High
+AE00482,C0538,O01053,,track_order,S90703,Android,Central,363,1,Success,High
+AE00483,C0220,O00464,08/05/2025 22:34,payment_retry,S60131,Android,North,378,1,Success,High
+AE00484,C0409,O00954,09/08/2024 07:04,chat_opened,S54681,Android,East,366,1,Success,High
+AE00485,C0286,O00820,,search_route,S27241,iOS,Central,650,1,Success,High
+AE00486,C0642,O01090,,delivery_instruction_update,S44319,Web,East,445,1,Success,High
+AE00487,C0113,O00668,,search_route,S82488,Web,Riverside,407,1,Success,High
+AE00488,C0403,O00609,06/02/2025 02:06,payment_retry,S49774,iOS,North,504,0,Failed,High
+AE00489,C0216,O00923,09/06/2025 07:08,search_route,S25859,Web,Airport,93,1,Success,Low
+AE00490,C0092,O00951,,track_order,S49678,Android,Central,629,1,Success,High
+AE00491,C0280,O00387,,eta_refresh,S83479,iOS,East,379,1,Success,High
+AE00492,C0626,O00321,,chat_escalated,S90324,Web,Central,732,0,Failed,High
+AE00493,C0032,O00014,,search_route,S81341,Android,West,609,1,Success,High
+AE00494,C0066,No_Order_Link,,track_order,S87386,Android,East,204,1,Success,Medium
+AE00495,C0152,O00180,,eta_refresh,S19414,iOS,North,461,1,Success,High
+AE00496,C0449,O00883,,chat_escalated,S79276,Android,South,699,1,Success,High
+AE00497,C0019,O00629,10/09/2024 04:18,search_route,S48419,Android,South,570,1,Success,High
+AE00498,C0621,No_Order_Link,04/05/2025 12:19,chat_opened,S97305,iOS,Airport,234,1,Success,Medium
+AE00499,C0067,No_Order_Link,,track_order,S64477,Android,Riverside,322,1,Success,High
+AE00500,C0044,O01025,11/09/2025 05:18,cancel_attempt,S17169,Android,Riverside,401,1,Success,High
+AE00501,C0088,No_Order_Link,,chat_opened,S85870,iOS,South,317,1,Success,High
+AE00502,C0298,O00586,06/11/2025 10:21,delivery_instruction_update,S37174,iOS,Riverside,339,1,Success,High
+AE00503,C0112,O00001,08/02/2024 12:35,delivery_instruction_update,S44209,Android,Riverside,204,1,Success,Medium
+AE00504,C0530,O00911,,eta_refresh,S26188,iOS,North,650,1,Success,High
+AE00505,C0126,O00933,,delivery_instruction_update,S77180,Web,Riverside,60,1,Success,Low
+AE00506,C0521,O00847,06/12/2025 23:24,search_route,S52317,Android,North,746,1,Success,High
+AE00507,C0613,O00916,,eta_refresh,S75035,iOS,East,805,1,Success,High
+AE00508,C0247,No_Order_Link,01/05/2024 03:05,search_route,S40964,iOS,Airport,661,1,Success,High
+AE00509,C0408,O00111,09/01/2025 23:13,delivery_instruction_update,S54652,iOS,North,558,1,Success,High
+AE00510,C0622,O01201,09/10/2025 05:05,chat_opened,S76345,Android,West,200,1,Success,Medium
+AE00511,C0603,O00263,,eta_refresh,S15323,Android,South,626,1,Success,High
+AE00512,C0089,O00210,04/09/2024 08:22,payment_retry,S31359,iOS,Central,171,1,Success,Medium
+AE00513,C0128,No_Order_Link,,chat_escalated,S83961,Android,Central,387,0,Failed,High
+AE00514,C0479,O00130,,track_order,S88181,Android,West,563,1,Success,High
+AE00515,C0239,O00552,08/10/2025 23:50,track_order,S66252,iOS,South,241,1,Success,Medium
+AE00516,C0054,O00305,,eta_refresh,S55049,Android,West,695,1,Success,High
+AE00517,C0089,O00288,01/06/2025 00:09,eta_refresh,S30949,Android,Riverside,358,1,Success,High
+AE00518,C0313,O00598,,cancel_attempt,S42373,Android,South,60,1,Success,Low
+AE00519,C0425,O00482,,delivery_instruction_update,S91220,Android,South,472,1,Success,High
+AE00520,C0221,O00875,,delivery_instruction_update,S38093,iOS,South,60,1,Success,Low
+AE00521,C0542,O01079,,eta_refresh,S43006,Android,Airport,153,1,Success,Medium
+AE00522,C0495,O00380,01/09/2024 03:41,eta_refresh,S15468,iOS,Airport,247,1,Success,Medium
+AE00523,C0212,No_Order_Link,,delivery_instruction_update,S34133,Android,Central,990,1,Success,High
+AE00524,C0377,O00759,,chat_opened,S27328,iOS,Airport,1468,1,Success,High
+AE00525,C0300,O01001,,delivery_instruction_update,S49936,Android,Central,716,1,Success,High
+AE00526,C0137,No_Order_Link,,search_route,S25731,Android,South,313,1,Success,High
+AE00527,C0475,No_Order_Link,10/06/2025 08:53,track_order,S58709,iOS,West,225,1,Success,Medium
+AE00528,C0502,O00032,,eta_refresh,S61761,Android,North,376,1,Success,High
+AE00529,C0226,No_Order_Link,,track_order,S67010,Web,South,810,1,Success,High
+AE00530,C0433,O00520,01/01/2024 10:39,eta_refresh,S29551,iOS,Riverside,279,1,Success,Medium
+AE00531,C0175,O00897,,payment_retry,S18824,iOS,East,298,0,Failed,Medium
+AE00532,C0223,No_Order_Link,,delivery_instruction_update,S23263,Web,West,420,1,Success,High
+AE00533,C0358,O00953,11/10/2024 03:21,eta_refresh,S56553,iOS,Central,662,1,Success,High
+AE00534,C0518,O00447,01/04/2024 16:24,eta_refresh,S59635,Android,North,271,1,Success,Medium
+AE00535,C0133,O01234,,chat_opened,S28612,Android,Airport,405,1,Success,High
+AE00536,C0317,No_Order_Link,,eta_refresh,S46532,Android,Central,671,1,Success,High
+AE00537,C0124,O00394,08/10/2024 21:10,search_route,S68896,Android,South,431,1,Success,High
+AE00538,C0597,O00135,,delivery_instruction_update,S20205,iOS,East,666,1,Success,High
+AE00539,C0145,O00986,07/06/2024 23:30,track_order,S78417,Web,East,133,1,Success,Medium
+AE00540,C0094,No_Order_Link,03/01/2024 14:58,chat_opened,S46627,Android,North,347,1,Success,High
+AE00541,C0635,O00803,06/06/2024 20:52,track_order,S34716,iOS,Riverside,83,1,Success,Low
+AE00542,C0508,O00291,,track_order,S86081,iOS,South,267,1,Success,Medium
+AE00543,C0176,O00002,,track_order,S74871,iOS,Airport,244,1,Success,Medium
+AE00544,C0411,O00258,,chat_opened,S14020,iOS,Central,451,1,Success,High
+AE00545,C0019,O00640,,search_route,S93178,Android,Central,171,1,Success,Medium
+AE00546,C0041,O00050,,eta_refresh,S37605,Web,North,242,1,Success,Medium
+AE00547,C0238,O00764,,chat_escalated,S36427,Android,Riverside,1138,0,Failed,High
+AE00548,C0454,O00923,05/03/2024 13:22,chat_opened,S35306,Android,East,510,1,Success,High
+AE00549,C0442,O00287,,delivery_instruction_update,S64617,iOS,West,763,1,Success,High
+AE00550,C0388,O00923,,search_route,S46051,Android,North,549,1,Success,High
+AE00551,C0013,O00455,,chat_opened,S84328,Android,Riverside,477,1,Success,High
+AE00552,C0616,O01232,,search_route,S47519,Android,South,671,1,Success,High
+AE00553,C0401,No_Order_Link,,track_order,S41785,iOS,Central,104,1,Success,Medium
+AE00554,C0394,O01117,11/03/2024 05:42,track_order,S93872,Web,South,292,1,Success,Medium
+AE00555,C0108,No_Order_Link,10/11/2025 17:50,track_order,S35202,Web,Airport,904,1,Success,High
+AE00556,C0266,No_Order_Link,,track_order,S17949,iOS,East,598,1,Success,High
+AE00557,C0187,O00982,,chat_opened,S54552,iOS,Riverside,720,1,Success,High
+AE00558,C0129,O01192,,payment_retry,S40376,iOS,East,603,1,Success,High
+AE00559,C0337,O01131,,chat_escalated,S93047,iOS,Airport,426,0,Failed,High
+AE00560,C0062,O01056,,chat_opened,S36308,Android,Airport,60,1,Success,Low
+AE00561,C0006,O00716,,chat_opened,S17807,Web,South,97,1,Success,Low
+AE00562,C0291,O00100,,payment_retry,S45061,Android,South,567,0,Failed,High
+AE00563,C0259,O00572,11/07/2025 23:10,search_route,S94354,iOS,East,424,1,Success,High
+AE00564,C0620,O00745,,track_order,S88208,Android,South,854,1,Success,High
+AE00565,C0260,O00177,,track_order,S51574,Web,South,351,1,Success,High
+AE00566,C0538,O00071,,chat_opened,S13907,iOS,Airport,709,1,Success,High
+AE00567,C0403,No_Order_Link,12/06/2025 13:13,delivery_instruction_update,S74491,Android,Riverside,838,1,Success,High
+AE00568,C0033,O00103,,search_route,S88268,iOS,Airport,691,1,Success,High
+AE00569,C0029,O00438,,cancel_attempt,S35398,Android,West,831,1,Success,High
+AE00570,C0133,O01194,,delivery_instruction_update,S69203,iOS,Riverside,387,1,Success,High
+AE00571,C0568,O00328,01/08/2025 15:50,chat_escalated,S30102,Web,South,661,1,Success,High
+AE00572,C0074,No_Order_Link,10/03/2025 05:16,track_order,S12786,Android,East,67,1,Success,Low
+AE00573,C0291,O00865,,chat_opened,S32689,Android,Central,256,1,Success,Medium
+AE00574,C0591,O01219,,track_order,S22064,Android,Airport,517,1,Success,High
+AE00575,C0509,O00011,,track_order,S44128,iOS,Airport,456,1,Success,High
+AE00576,C0218,O00901,11/04/2024 21:00,search_route,S39058,Android,West,488,1,Success,High
+AE00577,C0050,O00217,,payment_retry,S25608,iOS,South,280,1,Success,Medium
+AE00578,C0289,O01215,,chat_opened,S40958,Android,Central,1462,1,Success,High
+AE00579,C0088,O01143,,search_route,S48311,Android,North,730,1,Success,High
+AE00580,C0442,O00629,10/11/2025 08:12,delivery_instruction_update,S87300,Android,East,60,1,Success,Low
+AE00581,C0203,No_Order_Link,03/07/2024 08:14,chat_opened,S36767,Android,West,708,1,Success,High
+AE00582,C0509,O00053,01/01/2025 20:04,chat_escalated,S17952,iOS,Central,1402,0,Failed,High
+AE00583,C0040,O00424,,eta_refresh,S38065,iOS,East,60,1,Success,Low
+AE00584,C0338,No_Order_Link,06/02/2024 09:07,cancel_attempt,S42250,iOS,North,441,1,Success,High
+AE00585,C0183,O00458,,eta_refresh,S16357,Android,Central,152,1,Success,Medium
+AE00586,C0334,No_Order_Link,04/07/2025 08:42,search_route,S25359,Android,Central,249,1,Success,Medium
+AE00587,C0430,No_Order_Link,,chat_opened,S79926,Android,South,213,1,Success,Medium
+AE00588,C0046,O00582,06/03/2025 08:19,payment_retry,S73412,iOS,Riverside,516,0,Failed,High
+AE00589,C0543,No_Order_Link,,track_order,S82119,Android,Riverside,357,1,Success,High
+AE00590,C0515,No_Order_Link,,search_route,S33101,Android,East,145,1,Success,Medium
+AE00591,C0099,O00801,11/06/2024 12:29,eta_refresh,S78327,Android,Central,755,1,Success,High
+AE00592,C0231,No_Order_Link,05/06/2024 13:33,delivery_instruction_update,S63193,Android,Airport,704,1,Success,High
+AE00593,C0030,No_Order_Link,03/10/2025 18:52,track_order,S79043,Android,West,655,1,Success,High
+AE00594,C0208,O00618,03/03/2024 09:59,track_order,S43752,iOS,West,308,1,Success,High
+AE00595,C0610,O00716,10/02/2025 23:19,eta_refresh,S26110,Android,South,142,1,Success,Medium
+AE00596,C0174,O00190,01/01/2024 19:53,eta_refresh,S32843,iOS,Airport,462,1,Success,High
+AE00597,C0514,O00030,12/02/2024 18:45,track_order,S92720,iOS,Riverside,234,1,Success,Medium
+AE00598,C0461,No_Order_Link,06/05/2024 00:16,chat_opened,S43230,Android,North,712,1,Success,High
+AE00599,C0410,O00517,09/10/2024 00:17,chat_escalated,S52699,Web,Riverside,282,1,Success,Medium
+AE00600,C0634,O00251,12/03/2024 03:06,payment_retry,S11815,iOS,West,432,1,Success,High
+AE00601,C0503,O00374,01/06/2025 09:15,delivery_instruction_update,S37139,Android,North,850,1,Success,High
+AE00602,C0278,O00559,,chat_opened,S47257,Android,South,355,1,Success,High
+AE00603,C0232,O00960,07/04/2024 16:58,search_route,S62391,Web,South,552,1,Success,High
+AE00604,C0378,O00338,05/05/2024 23:01,search_route,S93133,iOS,Central,266,1,Success,Medium
+AE00605,C0576,O01052,,chat_escalated,S79827,Web,North,235,0,Failed,Medium
+AE00606,C0442,O00536,,eta_refresh,S68063,iOS,South,394,1,Success,High
+AE00607,C0128,O01228,10/05/2024 00:14,eta_refresh,S70979,iOS,North,609,1,Success,High
+AE00608,C0032,O00812,,eta_refresh,S22172,Web,Riverside,60,1,Success,Low
+AE00609,C0003,O00895,,payment_retry,S43719,iOS,Riverside,715,1,Success,High
+AE00610,C0590,No_Order_Link,,track_order,S62267,Web,Airport,60,1,Success,Low
+AE00611,C0038,O00716,11/01/2024 15:56,track_order,S52284,Android,Riverside,60,1,Success,Low
+AE00612,C0446,O00508,,track_order,S42727,Web,West,605,1,Success,High
+AE00613,C0263,O00620,03/03/2025 17:24,search_route,S70320,Android,West,355,1,Success,High
+AE00614,C0351,O00652,05/01/2024 01:28,eta_refresh,S73106,Android,Central,154,1,Success,Medium
+AE00615,C0450,O00983,09/04/2025 00:03,eta_refresh,S99323,iOS,West,322,1,Success,High
+AE00616,C0340,O00578,04/08/2025 21:34,delivery_instruction_update,S42991,Android,South,569,1,Success,High
+AE00617,C0131,No_Order_Link,,chat_opened,S95435,iOS,Central,770,1,Success,High
+AE00618,C0058,O01053,,track_order,S64470,iOS,North,294,1,Success,Medium
+AE00619,C0279,O00904,,cancel_attempt,S29439,iOS,West,551,1,Success,High
+AE00620,C0017,O01083,08/02/2025 12:06,track_order,S69072,Android,North,448,1,Success,High
+AE00621,C0141,O01114,,delivery_instruction_update,S54683,Android,East,778,1,Success,High
+AE00622,C0052,No_Order_Link,,eta_refresh,S48972,iOS,North,440,1,Success,High
+AE00623,C0168,O00809,01/04/2025 07:15,track_order,S80005,Android,Airport,444,1,Success,High
+AE00624,C0214,O00374,,delivery_instruction_update,S81380,iOS,Airport,1285,1,Success,High
+AE00625,C0650,O00427,,search_route,S41166,Android,South,333,1,Success,High
+AE00626,C0159,O00492,,track_order,S38639,Android,West,414,1,Success,High
+AE00627,C0357,No_Order_Link,,search_route,S10635,Web,North,225,1,Success,Medium
+AE00628,C0264,O00101,05/06/2025 06:56,eta_refresh,S90532,Android,East,462,1,Success,High
+AE00629,C0412,O01113,,track_order,S17041,Android,West,211,1,Success,Medium
+AE00630,C0161,O00372,,chat_opened,S53370,iOS,South,60,1,Success,Low
+AE00631,C0106,O00340,04/03/2024 16:30,chat_escalated,S75165,iOS,South,313,1,Success,High
+AE00632,C0459,O00658,10/03/2024 01:10,chat_opened,S57477,Android,South,283,1,Success,Medium
+AE00633,C0298,O00533,,delivery_instruction_update,S42849,Web,North,242,1,Success,Medium
+AE00634,C0240,No_Order_Link,,chat_escalated,S33275,Android,Riverside,398,0,Failed,High
+AE00635,C0175,O00485,09/04/2025 14:17,delivery_instruction_update,S65669,iOS,North,245,1,Success,Medium
+AE00636,C0431,O00575,12/07/2025 01:24,chat_opened,S12829,Web,South,172,1,Success,Medium
+AE00637,C0550,O01112,,search_route,S63179,Web,Central,535,1,Success,High
+AE00638,C0184,O01227,09/08/2024 23:22,eta_refresh,S73176,Android,East,758,1,Success,High
+AE00639,C0191,O00991,01/06/2025 07:47,eta_refresh,S77218,Android,Central,223,1,Success,Medium
+AE00640,C0182,No_Order_Link,,track_order,S76489,iOS,Central,449,1,Success,High
